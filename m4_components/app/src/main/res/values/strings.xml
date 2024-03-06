@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application 4</string>
+    <string name="notifications">Получать уведомления</string>
+    <string name="notification1">Об авторизации на устройстве</string>
+    <string name="notification2">О новинках и предложениях</string>
+    <string name="gender">Пол</string>
+    <string name="scores">Баллы</string>
+    <string name="man">М</string>
+    <string name="women">Ж</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="save">Сохранить</string>
+</resources>

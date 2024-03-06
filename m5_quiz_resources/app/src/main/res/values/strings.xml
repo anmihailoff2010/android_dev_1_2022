@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Опросник Skillbox</string>
+    <string name="welcome_button_skip">Продолжить</string>
+    <string name="welcome_message">Приветствуем тебя в приложении Опросник Skillbox!</string>
+</resources>

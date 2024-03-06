@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="topRow">Верхняя строка</string>
+    <string name="bottomLine">Нижняя строка</string>
+    <string name="topRow1">Верхняя строчка</string>
+    <string name="bottomLine1">Нижняя строчка</string>
+    <string name="text">Нижняя строчка</string>
+</resources>

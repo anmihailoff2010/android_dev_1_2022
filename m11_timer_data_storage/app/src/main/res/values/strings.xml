@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Application_11</string>
+    <string name="text">Введите текст</string>
+    <string name="reset_button_text">Очистить</string>
+    <string name="save_button_text">Сохранить</string>
+    <string name="text_view_text">Здесь отобразится сохраненный текст</string>
+</resources>

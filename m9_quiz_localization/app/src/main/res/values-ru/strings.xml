@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Опросник Skillbox</string>
+    <string name="welcome_button_skip">Продолжить</string>
+    <string name="welcome_message">Приветствуем тебя в приложении Опросник Skillbox!</string>
+    <string name="begin_button_text">Начать</string>
+    <string name="back_button_text">Назад</string>
+    <string name="send_button_text">Отправить</string>
+    <string name="results_text">Здесь должны быть результаты опроса =)</string>
+    <string name="again_button_text">Начать заново</string>
+    <string name="toast_text">"Пожалуйста ответьте на все вопросы =)"</string>
+    <string name="pick_date">Введите дату рождения</string>
+    <string name="choose_your_birthday">Выберите день своего рождения</string>
+</resources>

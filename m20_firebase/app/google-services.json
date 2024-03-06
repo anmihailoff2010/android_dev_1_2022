@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071088005652",
+    "project_id": "m20firebase-61ac2",
+    "storage_bucket": "m20firebase-61ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071088005652:android:9afc640c0fc34b1862ed01",
+        "android_client_info": {
+          "package_name": "com.example.m20_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD2zxFx_wA1VdHiAqj5yWpYSKTBOl-kdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
